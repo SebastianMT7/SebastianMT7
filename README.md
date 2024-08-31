@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sebastian+Torney!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Germany 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Germany</h3>
 
 <br/>
  
@@ -21,8 +21,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,angular,typescript,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,firebase,vscode,github,git" />
 </div>
 
 <br/>
